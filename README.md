@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Php
 - 💞️ I’m looking to collaborate on ...
 - 📫 Insta- himanshu.24._
-- 📫 Gmail- himanshu.patidar1645@gmail.com
+- 📫 Gmail- patidar.himanshu55624@gmail.com
 -  😄 Pronouns: ...
 
 <!---
